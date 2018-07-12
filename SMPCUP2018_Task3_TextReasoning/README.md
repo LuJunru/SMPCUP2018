@@ -13,7 +13,7 @@
 # 使用
 ## 启动elasticsearch服务
 - cmd：在cmd进入到本项目的elasticseatch-6.0.1文件夹下，输入命令 bin/elasticsearch
-- 教程：本项目提供一个录屏视频说明es服务的使用，详见百度网盘(链接:https://pan.baidu.com/s/1H1tMW6cJx8hdBhuuidMlyA；密码:9an9)
+- 教程：本项目提供一个录屏视频说明es服务的使用，详见[百度网盘](https://pan.baidu.com/s/1H1tMW6cJx8hdBhuuidMlyA)(密码:9an9)
 
 ## 主程序
 - es：在运行主程序前，务必确保elasticsearch服务已经启动
